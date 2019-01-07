@@ -59,6 +59,6 @@ We offer various [research projects](/education/research-projects/) to both bach
   false positive restraints and predict key residues involved in the interaction from this set of restraints. 
   It makes use of our [web portal](http://milou.science.uu.nl/enmr/services/POWERFIT) (does not require Linux).
 
-* [**Template-derived pairwise distance restraints to guide docking tutorial**](/education/CACA-guided/): A tutorial 
+* [**Template-derived pairwise distance restraints to guide docking tutorial**](/education/HADDOCK-CACA-guided/): A tutorial 
   demonstrating the use of template-based pairwise distance restraints to guide HADDOCK docking process. This tutorial makes
   use of two web servers: 1) [PS-HomPPI v2.0](http://ailab1.ist.psu.edu/PSHOMPPIv2.0/) and 2) [HADDOCK](https://milou.science.uu.nl/services/HADDOCK2.2/).  
